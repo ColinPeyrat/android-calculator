@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculette</string>
+    <string name="result">Résultat</string>
+    <string name="plus">+</string>
+    <string name="value1">Valeur 1</string>
+    <string name="value2">Valeur 2</string>
+    <string name="button_efface">Effacer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
